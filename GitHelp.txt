@@ -35,3 +35,6 @@ feat/register_telegram
 "feat: added new logik for register telegram "
 "update: update logik register"
 "fix: fixed register file register.py def register line 123"
+
+
+Новые команды
