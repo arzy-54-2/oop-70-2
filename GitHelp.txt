@@ -42,3 +42,7 @@ feat/register_telegram
 Я ветка главная !!!
 
 смотрим пулл реквест в гите
+
+py -m venv name_venv
+python -m venv name_venv
+python3 -m venv name_venv
