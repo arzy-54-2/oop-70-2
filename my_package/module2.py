@@ -1,12 +1,12 @@
-# # data = "Ardager"
-# #
-# # name = data
+# data = "Ardager"
 #
-# # def  init_test(self, name, lvl, hp):
-# #     pass
-# #
-# # init_test()
+# name = data
+
+# def  init_test(self, name, lvl, hp):
+#     pass
 #
+# init_test()
+
 # class Hero:
 #     # Конструктор класса
 #     def __init__(self, name, lvl=1, hp=100):
@@ -20,8 +20,6 @@
 #
 # kirito = Hero("Kirito")# 1
 # asuna = Hero("Asuna", 111, 1111)# 2
-# my_int = int(123)
-# my_str = "TEXT"
-#
-
+my_int = int(123)
+my_str = "TEXT"
 
